@@ -1,0 +1,14 @@
+{
+    "accountInfo": "https://dict.youdao.com/login/acc/query/accountinfo",
+    "articleList": "https://dict.youdao.com/listening/ugc/article/list",
+    "articleSave": "https://dict.youdao.com/listening/ugc/article/simple/save",
+    "articleFullSave": "https://dict.youdao.com/listening/ugc/article/full/save",
+    "articleGet": "https://dict.youdao.com/listening/ugc/article/get",
+    "articleUpdateStatus": "https://dict.youdao.com/listening/ugc/article/updateStatus",
+    "uploadFile": "https://ting.youdao.com/api/upload/uploadFile",
+    "subtitleUpdate": "https://ting.youdao.com/api/upload/subtitle/update/file",
+    "columnList": "https://dict.youdao.com/listening/ugc/column/list",
+    "columnCheck": "https://dict.youdao.com/listening/ugc/column/check",
+    "columnSave": "https://dict.youdao.com/listening/ugc/column/save",
+    "cookie": ""
+}
